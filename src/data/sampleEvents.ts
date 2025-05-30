@@ -22,7 +22,7 @@ export const sampleEvents: Event[] = [
     description: 'Be a part of one of the largest Web3 and AI Conference in India.',
     date: '2025-09-27',
     location: 'Delhi, India',
-    imageUrl: 'https://images.pexels.com/photos/1181403/pexels-photo-1181403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    imageUrl: '/BcryptConf2025Announcement banner.png',
     url: 'https://bcrypt.live',
     speakerImages: [
       'https://randomuser.me/api/portraits/men/75.jpg',
