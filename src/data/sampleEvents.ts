@@ -64,7 +64,7 @@ export const sampleEvents: Event[] = [
     description: 'India\'s biggest Web3 and AI hackathon.',
     date: '2025-09-27',
     location: 'Delhi, India',
-    imageUrl: 'https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    imageUrl: '/HackIndia2025img.jpg',
     url: 'https://hackindia.xyz',
     speakerImages: [
       'https://randomuser.me/api/portraits/women/22.jpg',
