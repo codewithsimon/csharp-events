@@ -84,5 +84,19 @@ export const sampleEvents: Event[] = [
       'https://randomuser.me/api/portraits/women/38.jpg',
       'https://randomuser.me/api/portraits/men/29.jpg',
     ]
+  },
+  {
+    id: 7,
+    title: 'Code Quality Conference 2024',
+    description: 'Top industry leaders taking the stage sharing their insights and experiences on code quality and performance',
+    date: '2024-06-27',
+    location: 'Virtual, Global',
+    imageUrl: '/Code-Quality-Conf-2024.jpg',
+    url: 'https://codequalityconf.com/',
+    speakerImages: [
+      'https://randomuser.me/api/portraits/men/51.jpg',
+      'https://randomuser.me/api/portraits/women/42.jpg',
+      'https://randomuser.me/api/portraits/men/37.jpg',
+    ]
   }
 ];
