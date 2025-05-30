@@ -36,7 +36,7 @@ export const sampleEvents: Event[] = [
     description: 'Supercharge your AI journey with dedicated content tailored for you, from business strategy to technical deep dives',
     date: '2025-09-28',
     location: 'Delhi, India',
-    imageUrl: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    imageUrl: '/Announcement banner ActionAiConf.png',
     url: 'https://actionaiconf.com',
     speakerImages: [
       'https://randomuser.me/api/portraits/men/22.jpg',
