@@ -70,5 +70,19 @@ export const sampleEvents: Event[] = [
       'https://randomuser.me/api/portraits/women/22.jpg',
       'https://randomuser.me/api/portraits/men/32.jpg',
     ]
+  },
+  {
+    id: 6,
+    title: 'React and Chill Conference 2024',
+    description: 'Explore the latest advancements and best practices in React development.',
+    date: '2024-08-22',
+    location: 'Virtual, Global',
+    imageUrl: '/Announcement-Banner.jpg',
+    url: 'https://reactandchill.live',
+    speakerImages: [
+      'https://randomuser.me/api/portraits/men/45.jpg',
+      'https://randomuser.me/api/portraits/women/38.jpg',
+      'https://randomuser.me/api/portraits/men/29.jpg',
+    ]
   }
 ];
