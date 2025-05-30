@@ -3,7 +3,7 @@ import { Event } from '../types/events';
 export const sampleEvents: Event[] = [
   {
     id: 1,
-    title: 'Software Architecture Conference',
+    title: 'Software Architecture Conference 2025',
     description: 'Learn the latest trends in software architecture from the experts and build your network.',
     date: '2025-08-05',
     location: 'Virtual, Global',
@@ -32,7 +32,7 @@ export const sampleEvents: Event[] = [
   },
   {
     id: 3,
-    title: 'Action AI Conference',
+    title: 'Action AI Conference 2025',
     description: 'Supercharge your AI journey with dedicated content tailored for you, from business strategy to technical deep dives',
     date: '2025-09-28',
     location: 'Delhi, India',
